@@ -1,0 +1,12 @@
+.session-wrapper{
+    min-height:100vh;
+    
+    /* scrollbar-color: #5e5e5e #000; */
+}
+.content-wrapper{
+    /* width: 100%;  */
+    background-color: #1E1E1E;
+    margin-left: -50px;  
+    min-height: 100vh;
+    scrollbar-color: #5e5e5e #1e1e1e; 
+}

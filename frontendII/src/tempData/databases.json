@@ -1,0 +1,29 @@
+{
+    "databases": [
+        {
+            "id": "1",
+            "name": "NebulaDB",
+            "description": "Inspired by the vast and mysterious nature of space, NebulaDB is designed to handle enormous datasets with ease and elegance."
+        },
+        {
+            "id": "2",
+            "name": "QuantumStore",
+            "description": "A futuristic database server that promises lightning-fast queries and storage capabilities, pushing the boundaries of data management."
+        },
+        {
+            "id": "3",
+            "name": "AuroraVault",
+            "description": "Named after the Aurora Borealis, this database server offers stunning performance and data security, illuminating the path to efficient data storage."
+        },
+        {
+            "id": "4",
+            "name": "TitanDB",
+            "description": "A robust and powerful database server that stands as a giant in the field, capable of managing the most demanding workloads."
+        },
+        {
+            "id": "5",
+            "name": "ZenithSQL",
+            "description": "Reaching the peak of performance and reliability, ZenithSQL provides a high-level SQL database experience with unparalleled stability."
+        }
+    ]
+}
